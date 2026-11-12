@@ -46,8 +46,7 @@ Projects will be added here as I build and publish them. Stay tuned!
 
 ## Let's Connect
 
-- 📫 Reach me: Israebabajide@gmail.com | www.linkedin.com/in/
-AFO2WENY5
+- 📫 Reach me: Israebabajide@gmail.com | www.linkedin.com/in/AFO2WENY5
 - 💬 Open to collaborations, ideas, and learning together
 
 ---

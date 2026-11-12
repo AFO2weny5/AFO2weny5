@@ -1,12 +1,56 @@
-- 👋 Hi, I’m @AFO2weny5
-- 👀 I’m interested in ... crypto 
-- 🌱 I’m currently learning ... crypto 
-- 💞️ I’m looking to collaborate on ... a good project
-- 📫 How to reach me ...israebabajide@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... “L’état, c’est moi”
+# Hi, I'm Babajide 👋
 
-<!---
-AFO2weny5/AFO2weny5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Vibe coder | Python | AI | Graduate of ATF AI School**
+
+I build things by turning ideas into working code, using AI as my co-pilot and Python as my foundation.
+
+## About Me
+
+- 🐍 Experienced in **Python** and general **programming**
+- 🤖 Hands-on with **AI** tools and AI-assisted development
+- 🎓 Graduate of **ATF AI School**
+- 🚀 I learn by building: ship first, refine after
+- 🌱 Always improving, one project at a time
+
+## What I Work With
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-orange?style=for-the-badge)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+## Currently
+
+- 🛠️ Exploring how to build smarter apps with AI
+- 💡 Turning ideas into real projects
+
+## Projects
+
+Projects will be added here as I build and publish them. Stay tuned!
+
+## Let's Connect
+
+- 📫 Reach me: Israebabajide@gmail.com
+- 💬 Open to collaborations, ideas, and learning together
+
+---
+
+## Fun Fact 👑
+
+> *"L'État, c'est moi"* (I am the state)

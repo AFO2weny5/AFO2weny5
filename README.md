@@ -1,6 +1,6 @@
 # Hi, I'm Babajide 👋
 
-**Vibe coder | Python | AI | Graduate of ATF AI School**
+**Vibe coder | Python | Programming | AI | Graduate of ATF AI School**
 
 I build things by turning ideas into working code, using AI as my co-pilot and Python as my foundation.
 
@@ -46,7 +46,8 @@ Projects will be added here as I build and publish them. Stay tuned!
 
 ## Let's Connect
 
-- 📫 Reach me: Israebabajide@gmail.com
+- 📫 Reach me: Israebabajide@gmail.com | www.linkedin.com/in/
+AFO2WENY5
 - 💬 Open to collaborations, ideas, and learning together
 
 ---
